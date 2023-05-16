@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(120, 240, 90);
+}
+h2{
+    margin-top: 8%;
+}
+.btn{
+    width: 100%;
+    margin-top: 10%;
+    padding: 3%;
+    margin-left: 250%;
+}
+.col-1{
+    margin-top: 1%;
+}
+.col-2{
+    margin-top: 1%;
+}
+.col-3{
+    margin-top: 1%;
+}
+.col-4{
+    margin-top: 1%;
+}
+.col-5{
+    margin-top: 1%;
+}
+.col-6{
+    margin-top: 1%;
+}
+.col-7{
+    margin-top: 1%;
+}
+.col-8{
+    margin-top: 1%;
+}
+.col-9{
+    margin-top: 1%;
+}
+.col-10{
+    margin-top: 1%;
+}
+.col-11{
+    margin-top: 1%;
+}
+.col-12{
+    margin-top: 1%;
+}
+.blocos{
+    background-color:black;
+    color: whitesmoke;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;    
+}
